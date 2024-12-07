@@ -1,6 +1,6 @@
 # Royal Spinner
 
-Did you know that Burger King (🇳🇴) is currently giving out free coupons and meals? Simply go to [burgerking.no/royalspin](https://burgerking.no/royalspin) and make and account to get a shot at your free rewards. Alternatively you could automate the campaign and register accounts on mass to increase your odds of getting rewards, if the latter sounds more attractive you should continue reading.
+Did you know that Burger King (🇳🇴) is currently giving out free coupons and meals? Simply go to [burgerking.no/royalspin](https://burgerking.no/royalspin) and make and account to get a shot at your free rewards. Alternatively you could automate the campaign and register accounts on mass to increase your odds of getting rewards, if the latter sounds more attractive then this is the project for you!
 
 > [!WARNING]  
 > The campaign is ending on **16/12/2024**
