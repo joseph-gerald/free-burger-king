@@ -15,6 +15,7 @@ You will need a Capsolver API key to automate the captchas and a ton of emails (
 4. Optional: Put proxies into `proxies.txt`
 5. Run main.py
 6. Check your inbox(es) for rewards
+7. Enjoy!
 
 ## Improvements?
 This is just a simple PoC of automating their campaign and could easily be improved through concurrency. If you have any changes/improvements for the code, please feel free to open a PR.
