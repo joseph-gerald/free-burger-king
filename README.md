@@ -5,6 +5,8 @@ Did you know that Burger King (🇳🇴) is currently giving out free coupons an
 > [!WARNING]  
 > The campaign is ending on **16/12/2024**
 
+![image](https://github.com/user-attachments/assets/5566c9e5-aaf8-4538-83ae-1ed404999172)
+
 ## Prerequisites
 You will need a Capsolver API key to automate the captchas and a ton of emails (easiest is using **catch-all** addresses)
 
@@ -34,6 +36,9 @@ Created account for DiLxeA9PV@redacted.com but did not win
 Created account for W3pTxLJFx@redacted.com but did not win
 Created account for vh22SdnRv@redacted.com but did not win
 ```
+
+## Enjoy!
+![image](https://github.com/user-attachments/assets/98db6c3b-9480-49b7-8d1a-2e5c24f02d46)
 
 <br>
 <br>
